@@ -2379,7 +2379,7 @@ input[type=color] {
   border: 1px solid var(--bd-border-1);
   margin: -1px 0 0 -1px;
   text-align: center;
-  height: 150px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4140,3 +4140,11 @@ blockquote cite::before {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+/* Updated Css  */
+/* -------------service pages css-------------- */
+.service-img{
+  border-radius: 90px 0px 90px 0px;
+  height: 325px 
+}

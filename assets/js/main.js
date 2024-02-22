@@ -449,3 +449,6 @@
 	}
 
 })(jQuery);
+
+
+// Partners JS 
