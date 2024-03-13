@@ -1646,7 +1646,7 @@ input[type=color] {
 
 /* logo */
 .logo img {
-  max-width: 250px;
+  max-width: 260px;
 }
 
 /* main menu css */
@@ -1976,7 +1976,7 @@ input[type=color] {
     margin-bottom: 40px;
   }
   .logo img {
-    max-width: 170px;
+    max-width: 260px;
    }
 }
 @media (max-width: 575px) {
